@@ -1,0 +1,10 @@
+D:\Programming\C#\CS_OOP\Lab_inheritance\Lab_inheritance\bin\Debug\Lab_inheritance.exe.config
+D:\Programming\C#\CS_OOP\Lab_inheritance\Lab_inheritance\bin\Debug\Lab_inheritance.exe
+D:\Programming\C#\CS_OOP\Lab_inheritance\Lab_inheritance\bin\Debug\Lab_inheritance.pdb
+D:\Programming\C#\CS_OOP\Lab_inheritance\Lab_inheritance\obj\Debug\Lab_inheritance.csproj.AssemblyReference.cache
+D:\Programming\C#\CS_OOP\Lab_inheritance\Lab_inheritance\obj\Debug\Lab_inheritance.Form1.resources
+D:\Programming\C#\CS_OOP\Lab_inheritance\Lab_inheritance\obj\Debug\Lab_inheritance.Properties.Resources.resources
+D:\Programming\C#\CS_OOP\Lab_inheritance\Lab_inheritance\obj\Debug\Lab_inheritance.csproj.GenerateResource.cache
+D:\Programming\C#\CS_OOP\Lab_inheritance\Lab_inheritance\obj\Debug\Lab_inheritance.csproj.CoreCompileInputs.cache
+D:\Programming\C#\CS_OOP\Lab_inheritance\Lab_inheritance\obj\Debug\Lab_inheritance.exe
+D:\Programming\C#\CS_OOP\Lab_inheritance\Lab_inheritance\obj\Debug\Lab_inheritance.pdb
